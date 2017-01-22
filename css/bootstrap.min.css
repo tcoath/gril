@@ -209,3 +209,32 @@
     background-color: /*#5cb85c;*/ #47263D;
     color: white;
 }
+.team-member {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.team-member img {
+  margin: 0 auto;
+  border: 7px solid white;
+}
+.team-member h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+}
+.team-member p {
+  margin-top: 0;
+}
+.bg-light-gray {
+  background-color: #eeeeee;
+}
+.img-centered {
+    width: 150px;
+    height: 150px;
+	margin: 0 auto;
+}
+.abouttext-color{color:white}
+
+.teamtext {
+color:black;
+font-size: 120% }
